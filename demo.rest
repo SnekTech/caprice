@@ -1,0 +1,13 @@
+###
+GET https://jsonplaceholder.typicode.com/posts HTTP/1.1
+
+###
+
+POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
+Content-Type: application/json
+
+{
+  "userId": 1,
+  "title": "Culpa omnis dicta ullam magnam incidunt nihil cumque.",
+  "body": "Ut praesentium accusamus. Quidem animi iusto cupiditate et ut quo autem sed repellendus. Et dicta voluptas iste sit aut. Ipsam ad veniam vel molestias quisquam reprehenderit commodi numquam. Provident omnis qui adipisci."
+}

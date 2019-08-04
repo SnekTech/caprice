@@ -1,6 +1,6 @@
 # 知识分享 - Visual Studio Code 使用技巧
 
-> 2019-08-07
+> 创建日期: 2019-08-07
 
 ## TODO
 
@@ -50,7 +50,7 @@
   - GitLens - 强大的git支持
   - Bracket Pair Colorized 2 - 新版性能更强
   - TODO Highlight - 待办事项处理
-  - faker - 方便生成假数据
+  - vscode-faker - 方便生成假数据
   - eslint / tslint - 灵活可配置
   - Document This (_JavaScript_/_TypeScript_)
   - REST Client
