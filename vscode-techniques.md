@@ -15,7 +15,7 @@
 不讲基础，以特色功能为例，几乎都是快捷键
 
 - Open Editors 可以关闭
-- 支持GFM - Github Flavored Markdown
+- 支持GFM - [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 - alt多光标
 - `alt + shift + <- / ->` 智能选择
 - 双击文件名固定文件
