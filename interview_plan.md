@@ -79,12 +79,12 @@
 ### Self-introduction
 
 Good afternoon! My name is SheYufei. I' m from Zhengzhou, Henan province. I graduated from Yunnan University, major in software engineering. My GPA is 3.3 out of 4.0.
-During my college days, I spent most of my time and effort on exploring the world of programming. In senior year, I had a six-month experience as an intern in a software company in, focusing on web front-end developing. My work consists of universal component library developing and regular webpage implementation based on react.js.
+During my college days, I spent most of my time and effort on exploring the world of programming. In senior year, I had a six-month experience as an intern in a software company, focusing on web front-end developing. My work consists of universal component library developing and regular webpage implementation based on react.js.
 The internship was not plain sailing. Both the content and the income of the job cannot meet my expectations. After serious consideration, I decided to join the postgraduate extrance exam to fight for a chance to dive deeper in the software engineering field. I believe after 2 or 3 years of solid learning and practice, I can become the best developer that I can ever be and make impressive contributions to the software industry. That's all, thanks for your attention.
 
 ### Hometown
 
-Zhengzhou is the provincial capital of Henan. The famous Longhai Line and Jingguang Line crosses at this city. It grows rapidly from a small towned governed by Kaifeng to a big modern city in less than a hundred years, thanks to the railway construction. It has four distinctive seasons. The people in there is friendly and sometimes humorous. The whole Henan province mainly focused on agriculture in the past few decades, so there is not many tech componies in Zhengzhou. I believe in the future, my generation will have the strength to make our hometown a better city to live in. I love my hometown.
+Zhengzhou is the provincial capital of Henan. The famous Longhai Line and Jingguang Line crosses at this city. It grows rapidly from a small town governed by Kaifeng to a big modern city in less than a hundred years, thanks to the railway construction. It has four distinctive seasons. The people there are friendly and sometimes humorous. The whole Henan province mainly focused on agriculture in the past few decades, so there is not many tech componies in Zhengzhou. I believe in the future, my generation will have the strength to make our hometown a better city to live in. I love my hometown.
 
 ### Strength & Weakness
 
@@ -92,7 +92,7 @@ My strength is that when I fully set the goal I want, I will do my best to reach
 
 ### Family
 
-My family has three members, my father, my mother and me. My father works for the State Grid and my mother worked for the National textile mills. They're both workers at the production line. In spare time, my father likes watching movies and my mother enjoys doing the square dance. They treated me not only as a son, but also as a friend, which I am really appreciate. I respect my parents for their love and hard work, and I want to give them the best I can give with my own hands. I love my family.
+My family has three members, my father, my mother and me. My father works for the State Grid and my mother worked for the National Textile Mills. They're both workers at the production line. In spare time, my father likes watching movies and my mother enjoys doing the square dance. They treated me not only as a son, but also as a friend, which I really appreciate. I respect my parents for their love and hard work, and I want to give them the best I can give with my own hands. I love my family.
 
 ### Hobby
 
@@ -100,11 +100,11 @@ Playing the guitar, mainly acoustic finger-style. I have been learning music the
 
 ### Why this major / Why postgraduate
 
-I really want to know how the computer works under the hood and how to develop a great software. Recently I've been using Visual Studio Code from Microsoft as my No.1 code editor. The beautiful user interface and excellent performance of this software gave me a fantastic coding expirence. I want to develop softwares as good as it to both gain reputation and make profit, so I've still got many things to learn. Persuing a master's degree of software engineering is the best option for me.
+I really want to know how the computer works under the hood and how to develop a great software. Recently I've been using Visual Studio Code from Microsoft as my No.1 code editor. The beautiful user interface and excellent performance of this software gave me a fantastic coding experience. I want to develop softwares as good as it to both gain reputation and make profit, so I've still got many things to learn. Persuing a master's degree of software engineering is the best option for me.
 
 ### University
 
-Yunnan University located in Kunming, the provincial capital of Yunnan province. It's a comprehensive university full of great majors. The teachers of software institute are decent and respectable. They have solid professional skills and taught me a lot about software industry. As for natural environment, the climate there is just at the sweet point and the air condition is one of the best in China. Green plants and cute animals can be found in the campus. The four years I spent there is absolutely precious. I love my alma mater.
+Yunnan University located in Kunming, the provincial capital of Yunnan province. It's a comprehensive university full of great majors. The teachers of software institute are decent and respectable. They have solid professional skills and taught me a lot about software industry. As for natural environment, the climate there is just at the sweet point and the air condition is one of the best in China. Green plants and cute animals can be found in the campus. The four years I spent there were absolutely precious. I love my alma mater.
 
 ### Why ustc
 
